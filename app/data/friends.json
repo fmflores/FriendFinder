@@ -48,5 +48,8 @@
     "name": "johnny tsunami",
     "photo": "https://akns-images.eonline.com/eol_images/Entire_Site/2016320/rs_634x846-160420132625-634.4disney-orignal-movies.jpg?fit=around|600:467&crop=600:467;center,top&output-quality=90",
     "scores": ["5", "5", "5", "4", "2", "5", "5", "1", "4", "1"]
-  }
+  },
+  {"name":"shandy",
+    "photo":"https://products2.imgix.drizly.com/ci-leinenkugels-summer-shandy-b9e3283f62a026d3.png?auto=format%2Ccompress&fm=jpg&q=20",
+    "scores":["5","5","5","5","5","5","5","5","5","5"]}
 ]
